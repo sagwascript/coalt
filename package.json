@@ -14,7 +14,7 @@
             {
                 "label": "Coalt",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Coalt VSCode-color-theme.json"
+                "path": "./themes/Coalt-color-theme.json"
             }
         ]
     }
