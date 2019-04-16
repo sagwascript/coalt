@@ -1,0 +1,21 @@
+{
+    "name": "coalt",
+    "displayName": "Coalt",
+    "description": "Coalt color theme - Cobalt2 with blackish UI colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coalt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coalt VSCode-color-theme.json"
+            }
+        ]
+    }
+}
