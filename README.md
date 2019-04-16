@@ -6,8 +6,8 @@
 *  UI Color Theme
 
 ### Screenshot
-[screenshot 1]: https://github.com/sagwascript/coalt/screenshots/screenshot-1.png "Javascript"
-[screenshot 2]: https://github.com/sagwascript/coalt/screenshots/screenshot-2.png "Python"
+[screenshot 1]: https://raw.githubusercontent.com/sagwascript/coalt/master/screenshots/screenshot-1.png "Javascript"
+[screenshot 2]: https://raw.githubusercontent.com/sagwascript/coalt/master/screenshots/screenshot-2.png "Python"
 
 ### Additional Info 
 * OS : Arch Linux
